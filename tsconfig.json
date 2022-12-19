@@ -1,0 +1,12 @@
+{
+  "include": [
+    "index.d.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "lib": [
+      "dom",
+      "esnext",
+    ],
+  }
+}
